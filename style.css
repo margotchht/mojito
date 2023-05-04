@@ -1,0 +1,54 @@
+body{text-align: center; 
+	font-family: arial; 
+	background: lightgrey;}
+
+
+h1 {color: #539165;}
+h2 {color: #609966;}
+h2{font-size: 24px;}
+
+h3{text-align: left;}
+ul{text-align: left;}
+
+.frame{
+	background: whitesmoke;
+	padding: 50px;
+	margin: 30px;
+	border: solid 5px #539165;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px 10px grey;
+}
+
+
+.circle-photo {
+	border-radius: 200px;
+	box-shadow: 10px 10px 10px darkgrey;
+}
+
+.box-white {
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.my_navbar {
+display: flex;
+justify-content: space-between;
+width: 100%;
+background: whitesmoke;
+}
+
+.links {
+display: flex;
+align-items: center;
+}
+
+.link {
+margin-left: 30px;in
+}
+
+.logo {
+	object-fit: cover;
+}
+
